@@ -1,2 +1,2 @@
 # Tkinter
-This is a small mid-term project of the  Tkiner type, where there is a course selection page.
+This is a small midterm project of the Tkinter type that has a course selection page inside.
